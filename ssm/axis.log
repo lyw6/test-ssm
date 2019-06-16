@@ -1,0 +1,10 @@
+2019-06-08 23:27:03,979 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@edf4efb: startup date [Sat Jun 08 23:27:03 CST 2019]; root of context hierarchy
+2019-06-08 23:27:05,435 1456   [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-06-08 23:27:55,908 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@edf4efb: startup date [Sat Jun 08 23:27:55 CST 2019]; root of context hierarchy
+2019-06-08 23:27:56,037 129    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-06-08 23:28:24,361 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@edf4efb: startup date [Sat Jun 08 23:28:24 CST 2019]; root of context hierarchy
+2019-06-08 23:28:24,565 204    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-06-08 23:29:02,754 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@edf4efb: startup date [Sat Jun 08 23:29:02 CST 2019]; root of context hierarchy
+2019-06-08 23:29:02,881 127    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-06-08 23:29:37,532 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@edf4efb: startup date [Sat Jun 08 23:29:37 CST 2019]; root of context hierarchy
+2019-06-08 23:29:37,650 118    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
